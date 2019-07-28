@@ -27,7 +27,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'hirb', '~> 0.7.3'
-gem 'stock_quote', '~> 2.0'
+gem 'stock_quote', '~> 3.0'
 gem 'bootstrap', '~> 4.3', '>= 4.3.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 #gem 'iex-ruby-client'
