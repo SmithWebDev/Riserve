@@ -33,7 +33,7 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 #gem 'iex-ruby-client'
 gem 'pry', '~> 0.12.2'
 #gem 'dotenv-rails', '~> 2.7', '>= 2.7.2'
-gem 'devise', '~> 4.6', '>= 4.6.2'
+gem 'devise', '~> 4.7'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
